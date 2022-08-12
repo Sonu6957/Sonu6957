@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sonu Sagar
-- 👀 I’m interested in Blockchain,Algorithm and Problem solving 
+- 👀 Interested in Blockchain,Algorithm and Problem solving 
 - 🌱 A Blockchain Developer
 - 💞️ LIkes to work and collaborate on Blockchain projects, as a developer, product designer and consultant.
 - 📫 Reach me on LinkedIn - https://www.linkedin.com/in/sonusagar6957
