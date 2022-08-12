@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sonu Sagar
 - 👀 I’m interested in Blockchain,Algorithm and Problem solving 
-- 🌱 I’m currently learning Blockchain Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Linked In:-sonusagar6957
+- 🌱 A Blockchain Developer
+- 💞️ LIkes to work and collaborate on Blockchain projects, as a developer, product designer and consultant.
+- 📫 Reach me on LinkedIn - https://www.linkedin.com/in/sonusagar6957
 
 <!---
 Sonu6957/Sonu6957 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
